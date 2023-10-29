@@ -2,4 +2,5 @@ Blue fill in circle
 
 headline bold 
 perimeter 
-area
+area 
+dhamaka hoga
