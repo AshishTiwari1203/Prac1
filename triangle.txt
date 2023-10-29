@@ -1,1 +1,5 @@
 //Adding color red 
+
+perimeter 
+triangle outline 
+area
