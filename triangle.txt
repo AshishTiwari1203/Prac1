@@ -2,8 +2,4 @@
 
 perimeter 
 triangle outline 
-<<<<<<< HEAD
-area + kuch bhi jo conflict paida karega 
-=======
 area + background 
->>>>>>> change
